@@ -54,3 +54,4 @@ sudo chown -R `whoami` ~/.msf4
 ## End and close out
 echo "So... That should be it, run 'sudo -E armitage' to start armitage and 'sudo msfconsole' to start metasploit"
 #
+
